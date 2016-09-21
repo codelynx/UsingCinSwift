@@ -1,0 +1,5 @@
+module sqlite [system] {
+	header "sqlite.h"
+	export *
+}
+
