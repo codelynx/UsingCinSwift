@@ -1,8 +1,8 @@
 //
-//  AppDelegate.swift
-//  test_sqlite_ios_app
+//	AppDelegate.swift
+//	test_sqlite_ios_app
 //
-//  Created by Kaz Yoshikawa on 9/19/16.
+//	Created by Kaz Yoshikawa on 9/19/16.
 //
 //
 
@@ -14,7 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 	var window: UIWindow?
 
 
-	func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+	func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
 		testSqlite3()
 		return true
 	}

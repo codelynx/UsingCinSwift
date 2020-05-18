@@ -1,8 +1,8 @@
 //
-//  TestSqlite_iOS.swift
-//  UsingCinSwift
+//	TestSqlite_iOS.swift
+//	UsingCinSwift
 //
-//  Created by Kaz Yoshikawa on 9/19/16.
+//	Created by Kaz Yoshikawa on 9/19/16.
 //
 //
 

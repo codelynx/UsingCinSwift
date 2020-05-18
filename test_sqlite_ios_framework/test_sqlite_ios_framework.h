@@ -1,8 +1,8 @@
 //
-//  test_sqlite_ios_framework.h
-//  test_sqlite_ios_framework
+//	test_sqlite_ios_framework.h
+//	test_sqlite_ios_framework
 //
-//  Created by Kaz Yoshikawa on 9/19/16.
+//	Created by Kaz Yoshikawa on 9/19/16.
 //
 //
 

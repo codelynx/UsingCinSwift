@@ -1,8 +1,8 @@
 //
-//  ViewController.swift
-//  test_sqlite_ios_host
+//	ViewController.swift
+//	test_sqlite_ios_host
 //
-//  Created by Kaz Yoshikawa on 9/19/16.
+//	Created by Kaz Yoshikawa on 9/19/16.
 //
 //
 
